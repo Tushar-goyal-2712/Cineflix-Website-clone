@@ -1,13 +1,13 @@
 
-#  5 Cursor Design
+#  Cineflix Website Clone
 
-Book Record Website of a library using Javascript and Bootstrap
+Clone of cineflix website
 
 
 
 ## 💻 Demo
 
-[Book Record Website Link](https://book-record-by-tushar.netlify.app/)
+[Book Record Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Book Record Website of a library using Javascript and Bootstrap
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Book-Record.git
+  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
 ```
 
 Install node_module dependencies
