@@ -7,7 +7,7 @@ Clone of cineflix website
 
 ## 💻 Demo
 
-[Book Record Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
